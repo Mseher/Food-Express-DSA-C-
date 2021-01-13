@@ -1,0 +1,24 @@
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////FOOD EXPRESS//////////////////////////////////////////////////////////////
+
+//Food ordering application//
+
+__Food Express is a console based acedamic project made in C++ language__
+
+__In this app you can go to Main Menu, Admin panel or Quit it__
+
+__In main menu you can place order, edit the order, and Add your location__
+
+__The app will tell the user the time of delivery based on the address he/she entered by using Dijkstras shortest distance algorithm__
+
+__User can access admin panel by entering the user name "admin_admin" and the password "1234"(password can be reset)__
+
+__Complete source code is in file "FOOD EXPRESS Source Code.vcxproj" which runs on Visual Studio 2019__ 
+
+______________________________PROJECT MEMBERS:
+                             1. Saba Fatima
+                             2. Malaika Seher
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
